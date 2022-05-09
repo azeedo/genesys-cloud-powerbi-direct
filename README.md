@@ -10,7 +10,8 @@ The first step to this is to create a OAuth client inside the Genesys Cloud, thi
     CLIENTID
     CLIENTSECRET
 
-Ensure you copy the above details from your environment and keep them secure.
+Ensure you copy the above details from your environment and keep them secure. Also make sure your Application (Client Credentials have been assigned a role, you can find this tab in the same Integrations menu where the "ClientID and Client Sercret" are found. 
+![image](https://user-images.githubusercontent.com/17038337/167434570-6774d05e-bdd9-4cd9-86e0-2a3e7ecee1fe.png)
 
 
 # PowerBi Desktop
